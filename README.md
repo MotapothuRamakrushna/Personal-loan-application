@@ -1,5 +1,4 @@
 Use Case Details:
-
  1. Have multi step form
  2. Stages as follows , apply loan, document collection, document verification,final approval, dispatch
  3. Auto fill customer ID, date
